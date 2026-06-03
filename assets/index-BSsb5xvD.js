@@ -227,7 +227,7 @@
       </div>
 
       <!-- Letter Content -->
-      <div id="letter-content" class="letter-content" style="position:absolute;width:100%;max-width:64rem;opacity:0;pointer-events:none;transform:scale(0.95);z-index:30;padding-top:40px;transition:all 0.8s cubic-bezier(0.4,0,0.2,1)">
+      <div id="letter-content" class="letter-content" style="position:absolute;left:0;right:0;margin:0 auto;width:100%;max-width:64rem;opacity:0;pointer-events:none;transform:scale(0.95);z-index:30;padding-top:40px;transition:all 0.8s cubic-bezier(0.4,0,0.2,1)">
         <div class="glass-panel" style="padding:40px 24px 40px 40px;border-radius:16px;position:relative;overflow:hidden;box-shadow:0 0 30px rgba(224,191,184,0.3)">
           <div style="position:absolute;top:-80px;right:-80px;width:256px;height:256px;background:rgba(253,219,211,0.1);border-radius:50%;filter:blur(80px);pointer-events:none;"></div>
           <div style="position:absolute;bottom:-80px;left:-80px;width:256px;height:256px;background:rgba(231,187,198,0.1);border-radius:50%;filter:blur(80px);pointer-events:none;"></div>
